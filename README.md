@@ -19,9 +19,9 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/anamkhxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anamkhxn" height="30" width="30" /></a>
-<a href="https://twitter.com/@Anamkhxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Anamkhxn" height="30" width="30" /></a>
-<a href="https://medium.com/@anamzoakhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anamzoakhan" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/anamkhxn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anamkhxn" height="30" width="30" /></a>
+<a href="https://twitter.com/@Anamkhxn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Anamkhxn" height="30" width="30" /></a>
+<a href="https://medium.com/@anamzoakhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anamzoakhan" height="30" width="30" /></a>
 </p>
 
 
