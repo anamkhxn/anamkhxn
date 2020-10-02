@@ -1,4 +1,4 @@
-# Hi! I am Anam <img src="https://raw.githubusercontent.com/anamkhxn/dexterpuru/master/wave.gif" width="30px">
+# Hi! I am Anam <img src="https://raw.githubusercontent.com/anamkhxn/anamkhxn/main/media/wave.gif" width="30px">
 
 <!--
 **anamkhxn/anamkhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
