@@ -17,7 +17,6 @@
 - 📙 Here is my **[Resume](https://drive.google.com/file/d/10pDy7AJ9rpdcheOzXh0ROCXIhaSpDUq1/view?usp=sharing)**
 
 -----
-<br />
 
 ### 🤝 Connect with me
 
