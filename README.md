@@ -36,7 +36,6 @@
 	<img alt="CSS3" align="left" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 </div>
 <br />
-<hr  width="1%" />
 
 <div>
   <img alt="React.js" align="left" src="https://img.icons8.com/office/80/000000/react.png" width="64px" />
