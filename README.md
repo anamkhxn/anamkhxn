@@ -3,7 +3,7 @@
 <!--
 **anamkhxn/anamkhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3>I'm a senior at VIT pursuing B.Tech in IT and an incoming Software Engineer at Dell.</h3>
+<h3>I'm a senior at VIT pursuing B.Tech in IT and a Software Engineer Intern at Dell.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamkhxn" alt="anamkhxn" /> </p>
 
