@@ -25,6 +25,7 @@
 <a href="https://medium.com/@anamzoakhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anamzoakhan" height="30" width="30" /></a>
 </p>
 <br />
+
 ### 🔧 Technologies & Tools
 
 <div>
