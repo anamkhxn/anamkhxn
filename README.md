@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Electron.**
 
-- 📫 Reach me at **anamzoakhan@gmail.com**
+- 📫 Reach me at <a href="mailto:anamzoakhan@gmail.com">**anamzoakhan@gmail.com**</a>
 
 - 📙 Here is my [Resume](https://drive.google.com/file/d/10pDy7AJ9rpdcheOzXh0ROCXIhaSpDUq1/view?usp=sharing)
 
