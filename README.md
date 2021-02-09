@@ -6,8 +6,9 @@
 <h3>I'm a senior at VIT pursuing B.Tech in IT and a Software Engineer Intern at Dell.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamkhxn" alt="anamkhxn" /> </p>
-
+<!--
 - 🔭 I’m currently working on [niche](https://github.com/anamkhxn/niche)
+-->
 
 - 🌱 I’m currently learning **Vue.js and Electron.**
 
