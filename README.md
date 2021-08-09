@@ -3,7 +3,7 @@
 <!--
 **anamkhxn/anamkhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3>I'm a senior at VIT pursuing B.Tech in IT and a Software Engineer Intern at Dell.</h3>
+<h3>I'm a Software Engineer at Dell Technologies, Bangalore. I am passionate about learning new things and solving problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamkhxn" alt="anamkhxn" /> </p>
 <!--
@@ -21,10 +21,10 @@
 ### 🤝 Connect with me
 
 <a href="https://linkedin.com/in/anamkhxn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anamkhxn" height="30" width="30" /></a>
-<a href="https://twitter.com/@Anamkhxn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Anamkhxn" height="30" width="30" /></a>
+<a href="https://twitter.com/@anamkhxn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Anamkhxn" height="30" width="30" /></a>
 <a href="https://medium.com/@anamzoakhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anamzoakhan" height="30" width="30" /></a>
 </p>
-<br />
+<!-- <br />
 
 ### 🔧 Technologies & Tools
 
@@ -59,7 +59,7 @@
 <br />
 <hr width="1%" />
 
-<br />
+<br /> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamkhxn&show_icons=true" alt="anamkhxn" /></p>
 
