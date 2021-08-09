@@ -58,12 +58,10 @@
 </div>
 <br />
 <hr width="1%" />
+ -->
+<br />
 
-<br /> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamkhxn&show_icons=true" alt="anamkhxn" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamkhxn&layout=compact" alt="anamkhxn" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anamkhxn&show_icons=true" alt="anamkhxn" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamkhxn&layout=compact" alt="anamkhxn"/>
 
 
 
