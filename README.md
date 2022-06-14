@@ -14,8 +14,6 @@
 
 - 📫 Reach me at <a href="mailto:anamzoakhan@gmail.com">**anamzoakhan@gmail.com**</a>
 
-- 📙 Here is my **[Resume](https://drive.google.com/file/d/10pDy7AJ9rpdcheOzXh0ROCXIhaSpDUq1/view?usp=sharing)**
-
 -----
 
 ### 🤝 Connect with me
